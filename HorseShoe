@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./Resources/CSS/index.css"
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horseshoe Crab</title>
+</head>
+<body>
+    <header>
+        <h1>The Horshoe Crab</h1>
+        </header>
+        <h3> <em>God's happy little gift to us all! That's right it's the darling horshoe crab</em></h3>
+        <img class="img" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Tachypleus_gigas.JPG" alt="horseshoe crab"> 
+    </header>
+    
+    <h2>Did you know their blood is <strong>blue</strong></h2>
+</body>
+</html>
